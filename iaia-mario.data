@@ -1,5 +1,5 @@
 classes = 1
-train  = /tmp/iaia-mario/iaia-mario_train.txt
-valid  = /tmp/iaia-mario/iaia-mario_valid.txt
-names = /tmp/iaia-mario/iaia-mario_labels.txt
+train  = /content/iaia-mario/iaia-mario_train.txt
+valid  = /content/iaia-mario/iaia-mario_valid.txt
+names = /content/iaia-mario/iaia-mario_labels.txt
 backup = backup
